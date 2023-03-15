@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### Robotic Engineer: &nbsp;About Me :
+### About Me :
 
 I am Robotics Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
 
